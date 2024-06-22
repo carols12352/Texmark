@@ -1,7 +1,7 @@
 ([English](./README_EN.md)|简体中文）
 
-# Tex Typora Theme
-一款基于[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)修改的 tex typora主题，仍使用GPL3.0许可证。
+# Texmark Typora Theme
+一款基于[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)修改的仿laterx typora主题，仍使用GPL3.0许可证。
 
 ## 修改说明
 
