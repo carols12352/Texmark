@@ -32,14 +32,14 @@
 5. **标题字体**：用于各级标题，包括 `华文黑体`、`华文楷体`、`华文仿宋`。
 ## 预览
 使用[kaokei的markdown文档示例示范](https://github.com/kaokei/kaokei.github.io/blob/docs/docs/_posts/markdown%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0.md)
-![demo1](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo1.png)
-![demo2](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo2.png)
+![demo1](https://github.com/carols12352/Texmark/blob/main/.assets/demo1.png)
+![demo2](https://github.com/carols12352/Texmark/blob/main/.assets/demo2.png)
 
 
-![demo3](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo3.png)
-![demo4](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo4.png)
+![demo3](https://github.com/carols12352/Texmark/blob/main/.assets/demo3.png)
+![demo4](https://github.com/carols12352/Texmark/blob/main/.assets/demo4.png)
 
-或者可以直接[查看在线PDF](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo.pdf)。
+或者可以直接[查看在线PDF](https://github.com/carols12352/Texmark/blob/main/.assets/demo.pdf)。
 
 ## 后续规划
 后续应该会继续加功能吧，希望可以把他改的更像latex源文件一点...😀
