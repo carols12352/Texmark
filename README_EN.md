@@ -12,6 +12,15 @@ A Tex Typora theme based on [Keldos-Li / typora-latex-theme](https://github.com/
 6. Added detailed comments to the source code to facilitate modification and adjustment by developers.
 
 ## Download and Installation
+
+**Detailed Installation Instructions**:
+- Use git clone or download the package directly.
+- Open the code folder.
+- Copy the contents of the folder to the Typora theme folder (can be directly opened in Typora).
+- Restart Typora and select the theme.
+
+**Special notes**
+
 This theme does not make extensive changes to the fonts of [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/). All fonts should be available in [Keldos-Li's installation tutorial](https://github.com/Keldos-Li/typora-latex-theme/blob/main/README.md#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85).
 
 ### Detailed Font List
