@@ -11,7 +11,7 @@
   --sourceMode-font: "SF Mono", "阿里巴巴普惠体 2.0", "微软雅黑"; /* Source mode font 源代码模式字体 */
   --toc-font: ""; /* TOC font 目录字体 */
   --toc-font-size: ""; /* TOC font size 目录字体大小 */
-  --math-font-size: 1em; /* Math font size 数学公式字体大小 */
+  --math-font-size: 1.05em; /* Math font size 数学公式字体大小 */
   --table-title-font: ""; /* Table title font 表格标题字体 */
   --table-font: ""; /* Table font 表格字体 */
   --heading-Latin-font: var(--base-Latin-font); /* Heading Latin font 标题拉丁字体 */
@@ -32,8 +32,6 @@
   --base-line-height: 1.618em; /* Base line height 基本行高 */
   --set-margin: 1.8cm 2cm 1.2cm 2cm !important; /* Page margins 页面边距 */
   --toc-show-title: none; /* TOC title display 目录标题显示 */
-  --link-color-light: #2E67D3; /* Link color (light mode) 链接颜色（浅色模式） */
-  --link-color-dark: #8bb1f9; /* Link color (dark mode) 链接颜色（深色模式） */
 }
 
 body {
@@ -49,6 +47,19 @@ body {
 
   @page {
     margin: 1.8cm 2cm 1.2cm 2cm !important; /* Set page margins for printing 打印页面的边距 */
+  }
+  .MathJax {
+    font-size: var(--math-font-size); /* Set printingfont size for MathJax 设置数学公式打印的字体大小 */
+  }
+}
+
+@media screen {
+ #write {
+    padding: var(--set-margin); /* Set padding for text area 设置文本区域的内边距 */
+    box-shadow: 0 0 24px 12px #cccccc; /* Set shadow for text area 设置文本区域的阴影 */
+  }
+  .MathJax {
+    font-size: 1.25em; /* Set view font size for MathJax 设置数学公式的屏幕字体大小 */  
   }
 }
 
@@ -115,16 +126,7 @@ strong {
   font-weight: var(--strong-weight); /* Set bold text weight 设置粗体文字权重 */
 }
 
-@media screen {
-  #write {
-    padding: var(--set-margin); /* Set padding for text area 设置文本区域的内边距 */
-    box-shadow: 0 0 24px 12px #cccccc; /* Set shadow for text area 设置文本区域的阴影 */
-  }
-}
 
-.MathJax {
-  font-size: var(--math-font-size); /* Set font size for MathJax 设置数学公式的字体大小 */
-}
 
 #typora-source {
   font-family: var(--sourceMode-font), var(--code-font), var(--ui-font), monospace; /* Set font family for source mode 设置源代码模式的字体 */
@@ -470,3 +472,5 @@ li code {
   margin-left: 7.5em; /* Set left margin 设置左边距 */
   margin-right: 0.5em; /* Set right margin 设置右边距 */
 }
+
+/* New features will be added here 新增功能会在这里添加 */
