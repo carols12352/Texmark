@@ -1,10 +1,10 @@
 ([English](./README_EN.md)|简体中文）
 
 # Texmark Typora Theme
-一款基于[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)修改的仿laterx typora主题，仍使用GPL3.0许可证。
+一款启发自[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)的类laterx typora主题，使用GPL3.0许可证。
 
 ## 修改说明
-
+本主题和[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)主要区别
 1. 改变链接样式为纯黑无下划线，更贴合latex设计
 2. 自动角标， 为非TOC链接增加了角标计数器，所有的引用链接都会被自动标上角标，不会受TOC影响
 3. H5标题修改样式为( )，每次插入一个新的标题都会重置计数器
@@ -22,7 +22,7 @@
   
 **特殊说明**
   
-本主题并未对[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)字体进行大量修改，所有的字体应该都可以在[Keldos-Li的安装教程](https://github.com/Keldos-Li/typora-latex-theme/blob/main/README.md#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)中找到。
+本主题并未对[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)默认字体进行大量修改，所有的字体应该都可以在[Keldos-Li的安装教程](https://github.com/Keldos-Li/typora-latex-theme/blob/main/README.md#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)中找到。
 
 ### 字体列表详细说明
 1. **基础字体**：用于一般文本内容，包括 `Latin Modern Roman`、`家族宋`、`宋体-简`、`华文宋体`、`Noto Serif CJK SC`。
