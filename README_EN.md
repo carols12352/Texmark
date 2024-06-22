@@ -33,12 +33,12 @@ This theme does not make extensive changes to the fonts of [Keldos-Li / typora-l
 ## Preview
 Using [kaokei's Markdown document example](https://github.com/kaokei/kaokei.github.io/blob/docs/docs/_posts/markdown%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0.md) for demonstration.
 
-![demo1](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo1.png)
-![demo2](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo2.png)
-![demo3](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo3.png)
-![demo4](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo4.png)
+![demo1](https://github.com/carols12352/Texmark/blob/main/.assets/demo1.png)
+![demo2](https://github.com/carols12352/Texmark/blob/main/.assets/demo2.png)
+![demo3](https://github.com/carols12352/Texmark/blob/main/.assets/demo3.png)
+![demo4](https://github.com/carols12352/Texmark/blob/main/.assets/demo4.png)
 
-Or you can directly [view the online PDF](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo.pdf).
+Or you can directly [view the online PDF](https://github.com/carols12352/Texmark/blob/main/.assets/demo.pdf).
 
 ## Future Plans
 planning to add more features in the future, hoping to make it look more like a LaTeX source file...😀
