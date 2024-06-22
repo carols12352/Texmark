@@ -34,4 +34,4 @@
 或者可以直接[查看在线PDF](https://github.com/carols12352/tex-typora-theme/blob/main/.assets/demo.pdf)。
 
 ## 后续规划
-后续应该会继续加功能吧，希望可以把他改的更像latex源文件一点...
+后续应该会继续加功能吧，希望可以把他改的更像latex源文件一点...😀
