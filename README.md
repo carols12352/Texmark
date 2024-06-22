@@ -14,6 +14,14 @@
 
 
 ## 下载与安装
+**详细安装教程**：
+- 使用git clone或者直接下载安装包
+- 打开code文件夹
+- 将文件夹内容复制到typora主题文件夹下(可在typora中直接打开)
+- 重启typora，选择主题
+  
+**特殊说明**
+  
 本主题并未对[Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/)字体进行大量修改，所有的字体应该都可以在[Keldos-Li的安装教程](https://github.com/Keldos-Li/typora-latex-theme/blob/main/README.md#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)中找到。
 
 ### 字体列表详细说明
