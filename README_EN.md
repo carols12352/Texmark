@@ -1,6 +1,6 @@
 (English|[简体中文](./README.md))
-# Tex Typora Theme
-A Tex Typora theme based on [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/), still under the GPL3.0 license.
+# Texmark Theme
+A latex-like Typora theme based on [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/), still under the GPL3.0 license.
 
 ## Modification Notes
 
